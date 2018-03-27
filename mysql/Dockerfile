@@ -1,3 +1,0 @@
-FROM mysql:5.6.36
-MAINTAINER 332715766@qq.com
-
